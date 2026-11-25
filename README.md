@@ -9,10 +9,11 @@ Entry for the [make.fun bounty "Worst Fix Ever: Funniest Commit Message"](https:
 ## The entry
 
 ```
-fix: removed the bug. it took the database with it as a souvenir
+fix: removed the warning; the bug is now silent and confident
 ```
 
-64 characters. The fix worked — the bug is gone. So is the database.
+61 characters. The warning is gone — and so is any trace of the bug. It is
+still there, just quieter now, and far more sure of itself.
 
 ## How it runs
 
